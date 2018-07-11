@@ -45,8 +45,11 @@ public class LoginTest02 {
   		driver.findElement(By.cssSelector("input[data-test='login-email']")).sendKeys("raul@test.com");
   		driver.findElement(By.cssSelector("input[data-test='login-password']")).sendKeys("abc123");
   		driver.findElement(By.cssSelector("input[data-test='login-password']")).sendKeys(Keys.ENTER);
-
-
+  		
+  		String error = driver.findElement(By.cssSelector("div[data-test='login-error']")).getText();
+  		System.out.println(error);
+  		Assert.assertEquals(error,"Incorrect username or password");
+  		
   }
 
 }

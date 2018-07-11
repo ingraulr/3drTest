@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="38490" started-at="2018-07-11T19:57:23Z" finished-at="2018-07-11T19:58:01Z">
+  <suite name="Suite" duration-ms="6461" started-at="2018-07-11T20:02:13Z" finished-at="2018-07-11T20:02:19Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="38490" started-at="2018-07-11T19:57:23Z" finished-at="2018-07-11T19:58:01Z">
+    <test name="Test" duration-ms="6461" started-at="2018-07-11T20:02:13Z" finished-at="2018-07-11T20:02:19Z">
       <class name="LoginTest02">
-        <test-method status="PASS" signature="beforeClass()[pri:0, instance:LoginTest02@5bfbf16f]" name="beforeClass" is-config="true" duration-ms="13" started-at="2018-07-11T19:57:23Z" finished-at="2018-07-11T19:57:23Z">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:LoginTest02@5bfbf16f]" name="beforeClass" is-config="true" duration-ms="8" started-at="2018-07-11T20:02:13Z" finished-at="2018-07-11T20:02:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="f()[pri:0, instance:LoginTest02@5bfbf16f]" name="f" duration-ms="24" started-at="2018-07-11T19:57:23Z" finished-at="2018-07-11T19:57:23Z">
+        <test-method status="PASS" signature="f()[pri:0, instance:LoginTest02@5bfbf16f]" name="f" duration-ms="7" started-at="2018-07-11T20:02:13Z" finished-at="2018-07-11T20:02:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
-        <test-method status="PASS" signature="verifyLogin()[pri:0, instance:LoginTest02@5bfbf16f]" name="verifyLogin" duration-ms="38229" started-at="2018-07-11T19:57:23Z" finished-at="2018-07-11T19:58:01Z">
+        <test-method status="PASS" signature="verifyLogin()[pri:0, instance:LoginTest02@5bfbf16f]" name="verifyLogin" duration-ms="6335" started-at="2018-07-11T20:02:13Z" finished-at="2018-07-11T20:02:19Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLogin -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:LoginTest02@5bfbf16f]" name="afterClass" is-config="true" duration-ms="176" started-at="2018-07-11T19:58:01Z" finished-at="2018-07-11T19:58:01Z">
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:LoginTest02@5bfbf16f]" name="afterClass" is-config="true" duration-ms="85" started-at="2018-07-11T20:02:19Z" finished-at="2018-07-11T20:02:19Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
